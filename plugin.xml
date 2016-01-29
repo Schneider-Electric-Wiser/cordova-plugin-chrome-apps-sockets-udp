@@ -16,6 +16,7 @@
   <repo>https://github.com/Schneider-Electric-Wiser/cordova-plugin-chrome-apps-sockets-udp.git</repo>
   <issue>https://github.com/Schneider-Electric-Wiser/cordova-plugin-chrome-apps-sockets-udp/issues</issue>
   <url>https://github.com/Schneider-Electric-Wiser/cordova-plugin-chrome-apps-sockets-udp</url>
+  <version>1.2.3</version>
 	<description>
 	  Support for UDP sockets in PhoneGap plugins. Based on original plugin
         https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-sockets-udp
